@@ -54,7 +54,7 @@ img {
 }
 
 .hero {
-    background-image: url(../img/airport_1920.jpg);
+    background-image: url(../img/flight\ sunset.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -69,7 +69,8 @@ img {
     position: absolute;
     top: 0;
     left: 0;
-    background-color: rgba(65, 76, 95, 0.849);
+    /* background-color: rgba(65, 76, 95, 0.849); */
+    background-color: rgba(218, 86, 86, 0.215);
     z-index: -1;
 }
 
