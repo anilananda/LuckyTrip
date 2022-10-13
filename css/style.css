@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Sora:wght@400;700&display=swap');
 
 :root {
-    --primary: #0d6efd;
+    --primary: #fe0000;
     --dark: #21252f;
     --body: #888;
     --white: #ffffff;
@@ -263,4 +263,9 @@ form .form-control {
     /* Adjust these values accordingly */
     top: -5px;
     
+}
+
+.book-now{
+    height: 225px;
+    width: min-content;
 }
