@@ -268,5 +268,5 @@ form .form-control {
 
 .book-now{
     height: 225px;
-    width: min-content;
+    max-width: 215px;
 }
