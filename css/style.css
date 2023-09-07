@@ -276,3 +276,33 @@ form .form-control {
   width: 35% !important;
   padding-top: 5px;
 }
+
+.btn-customer-support {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  /* 
+  background-color: #fe0000;
+  color: #ffffff; */
+
+  /* height: 60px;
+  width: 60px; */
+  border-radius: 50%;
+  outline: none;
+  border: none;
+  cursor: pointer;
+
+  right: 55px;
+  bottom: 35px;
+
+  position: fixed;
+
+  z-index: 999;
+}
+
+/* .btn-customer-support:hover {
+  color: #fe0000 !important;
+  background-color: #ffffff;
+  border: 2px solid #fe0000 !important;
+} */
